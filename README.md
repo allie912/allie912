@@ -2,6 +2,6 @@
 <p align="center"> <img width="754" height="540" alt="ioya" src="https://github.com/user-attachments/assets/8356826f-fb6c-4f8e-8474-338a076b38e4" />
 <p align="center">
 <a href="https://snoozelings.atabook.org">ata</a>
-.　 ۫ ·
+.　 ۫ ·　 ۫
 <a href="https://pronouns.cc/@snoozelose/">pronouns</a>
 </p>
