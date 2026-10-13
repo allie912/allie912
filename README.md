@@ -7,3 +7,4 @@
 ㅤ.　 ۫ ·　 ۫　 
 <a href="https://pronouns.cc/@snoozelose/">pronouns</a>
 </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3960&pause=92&color=F7DFC0&width=435&lines=I+believe+that+good+things...;only+come+to+those+who+wait." alt="Typing SVG" /></a>
