@@ -1,4 +1,4 @@
-<p align="center"> <img width="640" height="213" alt="Untitled31_20261017002059" src="https://github.com/user-attachments/assets/0f50e806-9170-4b8e-8dde-5ecb8e7dde0b" />
+<p align="center"> <img width="740" height="213" alt="Untitled31_20261017002059" src="https://github.com/user-attachments/assets/0f50e806-9170-4b8e-8dde-5ecb8e7dde0b" />
 <p align="center"> 
   $\color{#b86273}\text{♡ ⠀.　 ۫ ·⠀ ⠀αlee⠀︐ s}$
   $\color{#eabec3}\text{⠀ bakery .⠀ ⠀ ⠀ ˎˊ˗}$
