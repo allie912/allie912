@@ -1,8 +1,9 @@
+<p align="center"> <img width="640" height="213" alt="Untitled31_20261017002059" src="https://github.com/user-attachments/assets/0f50e806-9170-4b8e-8dde-5ecb8e7dde0b" />
 <p align="center"> 
   $\color{#b86273}\text{♡ ⠀.　 ۫ ·⠀ ⠀αlee⠀︐ s}$
   $\color{#eabec3}\text{⠀ bakery .⠀ ⠀ ⠀ ˎˊ˗}$
 </p>
-<p align="center"> <img width="220" height="184" alt="natsuki-ddlc" src="https://github.com/user-attachments/assets/99ca26f5-1bc1-4347-a7ae-2be69815772f" />
+<p align="center"> 
 
   ⠀ ⠀ ⠀ ⠀ ⠀
   ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀
