@@ -7,5 +7,8 @@
   ⠀ ⠀ ⠀ ⠀ ⠀
   ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀
 <p align="center"> $\color{#eabec3}\text{‿̩͙⊱༒︎༻♱༺༒︎⊰‿̩͙}$</p>
+⠀ ⠀ ⠀ ⠀ ⠀
+⠀ ⠀ ⠀ ⠀ ⠀
+⠀ ⠀ ⠀ ⠀ ⠀
 <p align="center"> <img width="500" height="346" alt="2403285-0" src="https://github.com/user-attachments/assets/1600df7d-5aa7-43ab-98e3-bea9c2f58a3c" />
 <p align="center"> $\color{#b86273}\text{𓏵⠀ ⠀ ⠀𝐢 may be trans ⠀、 but idk yettt ⠀ ⠀ ⠀ ⠀. ♡}$</p>
