@@ -10,5 +10,5 @@
 ⠀ ⠀ ⠀ ⠀ ⠀
 ⠀ ⠀ ⠀ ⠀ ⠀
 ⠀ ⠀ ⠀ ⠀ ⠀
-<p align="center"> <img width="700" height="446" alt="2403285-0" src="https://github.com/user-attachments/assets/1600df7d-5aa7-43ab-98e3-bea9c2f58a3c" />
+<p align="center"> <img width="600" height="446" alt="2403285-0" src="https://github.com/user-attachments/assets/1600df7d-5aa7-43ab-98e3-bea9c2f58a3c" />
 <p align="center"> $\color{#b86273}\text{𓏵⠀ ⠀ ⠀𝐢 may be trans ⠀、 but idk yettt ⠀ ⠀ ⠀ ⠀. ♡}$</p>
