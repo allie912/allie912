@@ -6,7 +6,7 @@
 
   ⠀ ⠀ ⠀ ⠀ ⠀
   ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀
-<p align="center"> $\color{#eabec3}\text{‿̩͙⊱༒︎༻♱༺༒︎⊰‿̩͙}$</p>
+<p align="center"> $\color{#eabec3}\text{⠀︵⠀ᥲoi ⠀、⠀ koi⠀ ⠀、 daidaiiro ..　 ۫ ·⠀◌Ⳋ𝅄}$</p>
 ⠀ ⠀ ⠀ ⠀ ⠀
 ⠀ ⠀ ⠀ ⠀ ⠀
 ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀
