@@ -4,6 +4,10 @@
   $\color{#fee4b4}\text{⠀ bakery .⠀ ⠀ ⠀ ˎˊ˗}$
 </p>
 <p align="center"> $\color{#fee4b4}\text{⠀︵⠀ᥲoi ⠀、⠀ koi⠀ ⠀、 daidaiiro ..　 ۫ ·⠀◌Ⳋ𝅄}$</p>
+⠀ ⠀ ⠀ ⠀ ⠀
+⠀ ⠀ ⠀ ⠀ ⠀
+
+⠀ ⠀ ⠀ ⠀ ⠀
 <p align="center">
   <a href="https://aleealee.atabook.org/">자신을 사랑하세요 ⠀ ⠀ 、、𓏵 αtabook</a>
 </p>⠀ ⠀ ⠀ ⠀ ⠀
