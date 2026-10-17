@@ -5,7 +5,7 @@
 </p>
 <p align="center"> $\color{#fee4b4}\text{⠀︵⠀ᥲoi ⠀、⠀ koi⠀ ⠀、 daidaiiro ..　 ۫ ·⠀◌Ⳋ𝅄}$</p>
 ⠀ ⠀ ⠀ ⠀ ⠀
-⠀ ⠀ ⠀ ⠀ ⠀
+⠀ ⠀<div class="tenor-gif-embed" data-postid="13466962362140011511" data-share-method="host" data-aspect-ratio="1.17033" data-width="100%"><a href="https://tenor.com/view/kfc-object-show-korfc-kim-gia-kfc-kim-gia-gif-13466962362140011511">Kfc Object Show Korfc GIF</a>from <a href="https://tenor.com/search/kfc+object+show-gifs">Kfc Object Show GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script> ⠀ ⠀ ⠀
 
 ⠀ ⠀ ⠀ ⠀ ⠀
 <p align="center">
