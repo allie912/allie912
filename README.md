@@ -1,10 +1,10 @@
 <hr>
 <p align="center"> 
-  $\color{#ffd8aa}\text{♡ ⠀.　 ۫ ·⠀ ⠀αlee⠀︐ s}$
-  $\color{#fee4b4}\text{⠀ bakery .⠀ ⠀ ⠀ ˎˊ˗}$
+  $\color{#ffd8aa}\text{♡ ⠀.　 ۫ ·⠀ ⠀calcium⠀︐ s}$
+  $\color{#fee4b4}\text{⠀ table .⠀ ⠀ ⠀ ˎˊ˗}$
 </p>
-<p align="center"> $\color{#fee4b4}\text{⠀︵⠀ᥲoi ⠀、⠀ koi⠀ ⠀、 daidaiiro ..　 ۫ ·⠀◌Ⳋ𝅄}$</p>
-<p align="center"> <img width="426" height="363" alt="tenor" src="https://github.com/user-attachments/assets/2c05b63e-afa2-4687-84a2-b888d1277206" />
+<p align="center"> $\color{#fee4b4}\text{⠀︵⠀as ⠀the⠀ name⠀ suggests ⠀、⠀ im ⠀calcium⠀ ⠀、 the⠀ element ..　 ۫ , huge⠀⠀fan⠀ of⠀ korfc !! ·⠀◌Ⳋ𝅄}$</p>
+<p align="center"> <img width="361" height="226" alt="Periodic_Table_Song_final_screen" src="https://github.com/user-attachments/assets/701c24a2-8e98-428a-bac8-f10875f453e9" />
  <p align="center">
   <a href="https://aleealee.atabook.org/"> ⠀ 、、𓏵 αtabook</a>
 </p>
