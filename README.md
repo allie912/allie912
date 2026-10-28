@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-    <img width="400" height="400" alt="devi;" src="https://github.com/user-attachments/assets/1e5ab8fa-3c35-4e90-b9e4-853df61fb2a9" />
+    <img width="200" height="200" alt="devi;" src="https://github.com/user-attachments/assets/1e5ab8fa-3c35-4e90-b9e4-853df61fb2a9" />
     </td>
     <td>
     <p align="center">
