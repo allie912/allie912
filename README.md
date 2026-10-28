@@ -10,7 +10,7 @@
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31o2qzvpinpd3nrild7gf3wyymcq&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=bab7a6&bar_color_cover=false">
   </a>
-<img width="205" height="205" alt="alright-just-kiss-now-bro" src="https://github.com/user-attachments/assets/87ef0905-51c2-4bd1-9084-ec77cd3ccdfa" />
+<img width="155" height="155" alt="alright-just-kiss-now-bro" src="https://github.com/user-attachments/assets/87ef0905-51c2-4bd1-9084-ec77cd3ccdfa" />
     </p>
    </td>
    </tr>
