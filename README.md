@@ -1,6 +1,6 @@
 <hr>
-<p align="center">
 <table>
+<p align="center">
   <tr>
     <td>
     <img width="200" height="200" alt="devi;" src="https://github.com/user-attachments/assets/1e5ab8fa-3c35-4e90-b9e4-853df61fb2a9" />
@@ -12,6 +12,6 @@
   </a>
 </p>
    </td>
-  </tr>
-</table>
+   </tr>
 </p>
+</table>
