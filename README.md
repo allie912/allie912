@@ -10,7 +10,7 @@
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31o2qzvpinpd3nrild7gf3wyymcq&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=bab7a6&bar_color_cover=false">
   </a>
-<img width="89" height="64" alt="timewheeling-it" src="https://github.com/user-attachments/assets/f4276279-a9dd-43e2-a1a2-cc210fdec17b" />
+<img width="139" height="135" alt="timewheeling-it" src="https://github.com/user-attachments/assets/f4276279-a9dd-43e2-a1a2-cc210fdec17b" />
   </p>
    </td>
    </tr>
