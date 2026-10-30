@@ -3,8 +3,8 @@
 <table>
   <tr>
     <td>
-    <img width="200" height="200" alt="devi;" src="https://github.com/user-attachments/assets/1e5ab8fa-3c35-4e90-b9e4-853df61fb2a9" />
-    </td>
+    <img width="200" height="200" alt="ollected scrasp" src="https://github.com/user-attachments/assets/a22ac940-02ae-4215-b281-38cbde107b8d" />
+ </td>
     <td>
     <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
