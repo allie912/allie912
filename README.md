@@ -16,5 +16,5 @@
 </table>
 </div>
 <hr>
-<img width="1280" height="401" alt="BOO" src="https://github.com/user-attachments/assets/992c64d1-9928-4279-b07b-cd8b7d64cf20" />
 <p align="center"> <a href="https://aleealee.atabook.org">新book</a></p>
+<hr>
